@@ -1,4 +1,4 @@
-# Color-flipping
+# Color-flipping - Js !st Project.
 
 LINK :- https://pscode422.github.io/Color-flipping/cf.html
 
